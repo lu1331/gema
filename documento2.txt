@@ -1,1 +1,2 @@
 texto documento2
+linea2 documento2
